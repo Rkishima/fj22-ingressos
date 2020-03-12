@@ -3,7 +3,6 @@ package br.com.caelum.ingresso.controller;
 import java.util.List;
 import java.util.Optional;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.MoveAction;
 import javax.validation.Valid;
 
 import org.springframework.beans.factory.annotation.Autowired;
